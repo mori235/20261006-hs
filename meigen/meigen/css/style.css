@@ -1,0 +1,17 @@
+@charset "utf-8";
+h1 {
+    text-align: center;
+}
+
+.left-box,
+.rjght-box
+.center-box {
+    width: 500px;
+    margin: 50px;
+    overflow: hidden;
+}
+
+.left-box figure {
+    float: left;
+    margin: 0 16px 16px;
+}
